@@ -1,15 +1,21 @@
 /*Selector{
     Property: value;
 }*/
+body{
+    background-color: rgb(170, 107, 57);
+}
 h2 {
-    color:rgb(221, 23, 23);
+    color:rgb(85, 38, 0);
     /*background-color:rgb(173, 234, 238);*/
     text-align: center;
-    border: 5px dashed rgb(120, 205, 226);
+    border: 5px dashed rgb(212, 153, 106);
+    cursor: progress;
 }
 p{
-    color: rgb(250, 211, 218);
+    color: rgb(255, 208, 170);
 }
+li {
+    color: rgb(255, 208, 170);
 
 
 
