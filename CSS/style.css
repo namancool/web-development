@@ -14,7 +14,7 @@ h2,p {
     border: 5px solid rgb(212, 153, 106);
     cursor: progress;
 }
-p{
+p:hover {
     color: rgb(255, 208, 170);
 }
 li {
@@ -23,7 +23,7 @@ li {
     display: inline-block;
 }
 .webtext {
-    border: 5px dashed rgb(194, 158, 129);
+    border: 5px dashed rgb(194, 158, 129);/*last-child , first-child,  (!important)*not recommended using  */
 }
 .main {
     color: rgb(85, 30, 0);
