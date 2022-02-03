@@ -17,6 +17,15 @@ p{
 li {
     color: rgb(255, 208, 170);
 }
+.webtext {
+    border: 5px dashed rgb(194, 158, 129);
+}
+.main {
+    color: rgb(85, 30, 0);
+}
+#div1{
+    background: rgb(158, 158, 209)
+}
 
 
 
