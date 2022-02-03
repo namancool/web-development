@@ -1,6 +1,9 @@
 /*Selector{
     Property: value;
 }*/
+*{
+    text-align: right;
+}
 body{
     background-color: rgb(170, 107, 57);
 }
@@ -16,6 +19,8 @@ p{
 }
 li {
     color: rgb(255, 208, 170);
+    list-style : none;
+    display: inline-block;
 }
 .webtext {
     border: 5px dashed rgb(194, 158, 129);
